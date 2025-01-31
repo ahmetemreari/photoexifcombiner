@@ -39,7 +39,7 @@ python total.py
 
 ### 📄 License
 
-[Add license information]
+[MIT]
 
 ### 📞 Contact
 
@@ -86,7 +86,7 @@ python total.py
 
 ### 📄 Lisans
 
-[Lisans bilgisi ekleyin]
+[MIT]
 
 ### 📞 İletişim
 
